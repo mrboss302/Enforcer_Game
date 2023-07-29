@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5999912356955899278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5999912356955899272}
+  - component: {fileID: 5999912356955899279}
+  - component: {fileID: 5999912356955899273}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5999912356955899272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5999912356955899278}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5999912356955899279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5999912356955899278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8ed19a2e9b041f6ac13fda82f1cb53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isTestLevel: 0
+  gameState: 0
+  checkPoint: {x: 0, y: 0, z: 0}
+--- !u!114 &5999912356955899273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5999912356955899278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1540a40e215ca412bbc76029ae06be4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicsGame: {fileID: 8300000, guid: 3d6b2deab3d314296bbd8947495fda6f, type: 3}
+  musicsGameVolume: 0.5
+  soundClick: {fileID: 8300000, guid: 05fcac3ef55e64efaaa36f9677b14e7b, type: 3}
+  soundBeginGame: {fileID: 8300000, guid: 1f53be4a9cc1c4254b3755531dc5a76e, type: 3}
+  soundGamefinish: {fileID: 8300000, guid: 8f547998abf6041369b141f64e7b6d95, type: 3}
+  soundGameover: {fileID: 8300000, guid: de395e6e8cebb4daeb9c6f0169ffaa13, type: 3}

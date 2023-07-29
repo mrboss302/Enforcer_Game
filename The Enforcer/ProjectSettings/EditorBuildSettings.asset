@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MSK/Scene/HomeScene.unity
+    guid: 896c2fb414d63472fb582086a29c28e5
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 1.unity
+    guid: 98228a3f5165b4cd39600a9c169fb7e1
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 2.unity
+    guid: 04c560e5a6f2f49e88911ef043506517
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 3.unity
+    guid: d78d8a0f26c3a40638a56477a490dcc4
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 4.unity
+    guid: 6d725d04db628426f96410474a4dc87b
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 5.unity
+    guid: 2d0292dde60c04fe2a333dad0bd3d053
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 6.unity
+    guid: 37272d22d3fed474e94a3b897ee8f391
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 7.unity
+    guid: 1d883a4a457374fd1b5fdda028d8eff1
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 8.unity
+    guid: 14e9475f6c9bf4475879dbbd14e5f647
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 9.unity
+    guid: 8722387d13343410db13f55e6ea138eb
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 10.unity
+    guid: 5dc84649b549d4e038aa2f825c5f171a
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 11.unity
+    guid: 9297a8afed3c24c70a5e52368696811c
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 12.unity
+    guid: 35ef58e5327b84848b90aa7bb2795e52
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 13.unity
+    guid: 7fe9fb0b68ae4449889dccd4332646db
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 14.unity
+    guid: 0683b2c4c7d6f4dde9660c3465507c55
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 15.unity
+    guid: 74109fc3d0c124fa3894e56ca17215ca
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 16.unity
+    guid: 7294e4a9e22bb410ea41218e7ae70dae
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 17.unity
+    guid: 21b68cb15eda146a4a2faafe7792d4ec
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 18.unity
+    guid: 3956bf2b4d19044cbb514deccc4bdc75
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 19.unity
+    guid: d52f01ccbda304c3fb258b78d9c68089
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 20.unity
+    guid: e233bc597d319458e909ee34f121c329
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 21.unity
+    guid: ece590d6400d2486d92599595054dd6a
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 22.unity
+    guid: 45c016ba74ef94bfa8ae2ddc4c1cec1c
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 23.unity
+    guid: 4bf7ac5727fc24b668aeb06d29c0a577
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 24.unity
+    guid: 9f435d49f65064298ac88cfdb18f0d8e
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 25.unity
+    guid: 7f3367b51ecf040d2be4265d7b149b0d
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 26.unity
+    guid: 603d45f4a4a56446ea1881711b495f0e
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 27.unity
+    guid: acfba025175d848d1a1a6a0952587b41
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 28.unity
+    guid: e8923a020a35a49fea8a9c09d22002ae
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 29.unity
+    guid: 11401b19df3a84bf0a59e342beb66942
+  - enabled: 1
+    path: Assets/_MSK/Scene/Level/Level 30.unity
+    guid: 01ee5bb9472bd4b9d84c2671e418be53
+  m_configObjects: {}
